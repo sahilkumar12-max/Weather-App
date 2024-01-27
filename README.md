@@ -58,10 +58,6 @@ The application consists of two main files:
 
 Feel free to modify and enhance the application as needed for your use case!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For inquiries or issues, please contact [your email address].
+For inquiries or issues, please contact Sahilku86680604@gmail.com.
